@@ -1,0 +1,4 @@
+,RMSE,R2 Score,Train R2,Overfit Gap (Train-Test R2)
+Decision Tree,0.7242,0.5997,0.6377,0.0379
+Ridge Regression,0.7476,0.5735,0.6126,0.039
+Linear Regression,0.7476,0.5735,0.6126,0.0391
